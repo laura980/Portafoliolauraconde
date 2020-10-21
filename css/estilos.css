@@ -1,0 +1,27 @@
+*{box-sizing: border-box; font-family: sans-serif;}
+body
+{
+    margin: auto;
+    width: 90%;
+    color: white;
+    background-color: black;
+}
+#blista
+{
+    color: white;
+    background-color: #C01719;
+    border: none;
+    padding: 15px;
+    margin-top: 13%;
+    border-radius: 5px;
+}
+ul {
+
+}
+
+ul li {
+  line-height: 1.5;
+  padding: 0.5em 0;
+  list-style-image: url("https://i.ibb.co/fNZMtJ0/lista.png");
+}
+
